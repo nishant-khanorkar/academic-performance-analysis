@@ -10,4 +10,7 @@ Exploratory Data Analysis, Predictive Modeling, Regression, Classification
 
 
 ## Highlight
-Read <a href="Report.pdf" class="image fit">Report.pdf </br></br> <img src="Correlation.png"></a>
+
+[Presentation](Presentation.pdf)
+
+<a href="Report.pdf" class="image fit">Report </br></br> <img src="Correlation.png"></a>
